@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This app is an online retailer-like storefront with Node and MySQL.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^2.0.0",
+    "mysql": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishaprograms/Bamazon.git"
+  },
+  "keywords": [
+    "mysql",
+    "node"
+  ],
+  "author": "Aisha Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishaprograms/Bamazon/issues"
+  },
+  "homepage": "https://github.com/aishaprograms/Bamazon#readme"
+}
