@@ -65,7 +65,7 @@ What to install and how for local development and testing purposes
 
 The default test is
 ```
-node index.js
+node bamazonCustomer.js
 ```
 
 ## Built With
