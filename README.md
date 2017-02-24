@@ -15,6 +15,8 @@ This displays the table called products and prompts the user to purchase one of 
 
 * **Bamazon YouTube Demo** - [Bamazon](https://www.youtube.com/watch?v=QBHKB5iazgQ)
 
+![Bamazon gif](img/bamazon.gif)
+
 ## Understand
 The sql schema for the database and table is:
 ```
